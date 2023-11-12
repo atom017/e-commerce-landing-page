@@ -5,7 +5,7 @@ import {SlReload} from 'react-icons/sl'
 const Footer = () => {
   return (
     <footer className='md:container py-3 w-full mx-auto'>
-        <div className='md:flex flex flex-col px-2  md:justify-between'>
+        <div className='md:flex-row flex flex-col px-2  md:justify-between'>
             <div className='flex flex-col'>
                 <h4 className='font-bold mb-2'>Customer Service</h4>
                 <div className='flex justify-start items-center mb-2'>
